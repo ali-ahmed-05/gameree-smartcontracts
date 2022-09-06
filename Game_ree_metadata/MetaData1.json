@@ -1,0 +1,16 @@
+{
+    "name": "Merdian",
+    "image": "https://images.unsplash.com/photo-1534237710431-e2fc698436d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YnVpbGRpbmd8ZW58MHx8MHx8&w=1000&q=80",
+    "description":"",
+    "Building name":"PLUTON",
+    "Building number":"B16",
+    "road name":"XAVIER",
+    "postcode":"17395",
+    "city":"NY", 
+    "street name":"",
+    "No of Units": "10", 
+    "Total gross area in sqt of building":"4000",
+    "price in sq in £":"1500",
+    "current price in £":"3500",
+    "current NFT price":"5"
+}  

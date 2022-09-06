@@ -1,0 +1,12 @@
+The number of decimals in ERC20 determines the factor used to represent the decimal number as uint. For instance 18 means that the value is stored in an uint as decimalValue * 10**18.
+
+For instance: 100,103 => is stored as uint 100103000000000000000
+
+If you want to convert between different representations you have to multiply or divide depending on the difference in decimals count:
+
+valueB = valueA / (10**(18-6))
+valueA = valueB * (10**(18-6))
+Of course, division will lead to precision loss.
+
+
+

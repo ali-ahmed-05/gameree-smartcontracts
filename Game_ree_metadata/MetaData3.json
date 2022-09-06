@@ -1,0 +1,16 @@
+{
+    "name": "Corporate",
+    "image": "https://images.unsplash.com/photo-1534240724593-cfacb25cf6ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aGlnaHJpc2V8ZW58MHx8MHx8&w=1000&q=80",
+    "description":"",
+    "Building name":"MA ARCADE",
+    "Building number":"D45",
+    "road name":"TERRESA",
+    "postcode":"69374",
+    "city":"NEW ORLEANS", 
+    "street name":"LUX",
+    "No of Units": "25", 
+    "Total gross area in sqt of building":"8000",
+    "price in sq in £":"2100",
+    "current price in £":"4200",
+    "current NFT price":"5"
+}  
