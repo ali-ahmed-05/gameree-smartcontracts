@@ -62,7 +62,7 @@ module.exports = {
     path: '../gameree-client/client/src/contract',
     runOnCompile: true,
     clear: true,
-    only: [':GameRee1155$',':USDG$',':Config$',':marketplace$' , ':StableVault$' , ':IERC20$'],
+    only: [':GameRee1155$',':USDG$',':Config$',':marketplace$' , ':StableVault$' , ':IERC20$' , ':IERC20Metadata$'],
     flat: true,
     spacing: 2,
     pretty: true,
